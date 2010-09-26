@@ -1,9 +1,9 @@
 {
-    "name": "through_utm_", 
-    "license": "MIT", 
+    "name": "paramcleaner",
+    "license": "MIT",
     "author": "azu",
-    "version": "0.0.4", 
-    "fullName": "Through utm_", 
-    "id": "jid0-Be5ornb4UFlnyhPAv304nSocNgc", 
-    "description": "Through utm_xxx parameters."
+    "version": "0.0.4",
+    "fullName": "ParamCleaner",
+    "id": "jid0-1LeODrJVuO7LwYUJOiArMeDJVHc",
+    "description": "Through unwanted parameters."
 }
